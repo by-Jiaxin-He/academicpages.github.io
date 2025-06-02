@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Still working hard on research ..."
+title: "Welcome, Professor Hara Yusuke!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
