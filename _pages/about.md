@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to My World
+Welcome to My World！
 My journey began with a fascination for the hidden patterns within complex systems. My undergraduate studies in Actuarial Science provided me with the first lens to view the world—a world that could be understood and managed through rigorous mathematical models and probability theory. This foundation was solidified through practical challenges like the Mathematical Contest in Modeling, where I experienced the profound satisfaction of translating abstract theories into tangible solutions.
 
 However, I felt a compelling need to go deeper, to understand the physical entities that generate the data I was analyzing. This ambition led me to The University of Tokyo, where I am currently pursuing a Master's degree in Systems Innovation (Industrial Engineering). Here, I am integrating my quantitative skills with advanced engineering principles, learning how to enhance a system's quality and reliability from its very core.
